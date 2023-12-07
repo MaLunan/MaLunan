@@ -7,4 +7,4 @@
 -  :ship: 邮箱：zmln1021@163.com
 -  :racehorse: 公众号：前端知识密码
 -  :boom: 小程序：常用软件工具箱
--  :sagittarius: 个人网站: [https://www.zmln1021.cn](https://malunan.github.io)
+-  :sagittarius: 个人网站: [https://malunan.github.io](https://malunan.github.io)
