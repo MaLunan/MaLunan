@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
--  :rainbow:职业：前端开发
+-  :rainbow:职业：AI全栈开发工程师
 -  :boy:  有好的内推欢迎找我
 -  :ship: 邮箱：zmln1021@163.com
 -  :racehorse: 公众号：前端知识密码
